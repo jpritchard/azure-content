@@ -38,7 +38,7 @@ Note that you'll need access to a valid VHD file to perform all the steps in thi
 
 1. The selected lab's **Settings** blade will be displayed. 
 
-1. On the lab **Settings** blade, select **Custom images**.
+1. On the lab **Settings** blade, select **Configuration**, then **Virtual Machine Bases**, then **+ Custom Images (VHDs)** .
 
     ![Custom images option](./media/devtest-lab-create-template/lab-settings-custom-images.png)
 
